@@ -1,0 +1,125 @@
+nav{
+	background: purple;
+	border-top: solid;
+	height: 60px;
+
+}
+
+img#logo
+{
+	margin-right: 30px;
+	position: relative;
+	margin-left: 420px;
+
+}
+img#f{
+	border-top: solid;
+	border-right: solid;
+
+}
+img#f1{
+	border-top: solid;
+	border-left: solid;
+
+}
+h1#page-title{
+	margin-left: 200px;
+	color:purple;
+	width: 70%;
+	font-size: 4em;
+	margin-top: -10px;
+}
+img#n{
+	margin-left: 200px;
+	border-top: solid;
+	margin-top: -100px;
+}
+p#s1{
+	margin-left: 200px;
+font-family: roboto;
+}
+h2#h{
+	margin-left: 200px;
+}
+h3#h{
+	margin-left: 200px;
+}
+
+a{
+   font-family: roboto;
+	margin-right: 30px;
+	color:white;
+	position: relative;
+	margin: 5px;
+	top: -13px;
+	
+}
+a:hover{
+	color:black;
+}
+a.active{
+	color:yellow;
+}
+a:checked{
+	color: red;
+}
+footer{
+	background-color: purple;
+	
+	height: 150px;
+	line-height: 100px;
+	border-top-color: black;
+}
+p#footer_text{
+	color:white;
+	text-align: center;
+	
+	font-family: roboto;
+}
+img#t{
+	border-top: solid;
+	margin-left: 80px;
+
+}
+p#x{
+	margin-left: 700px;
+	margin-top: -300px;
+
+}
+p#x1{
+	margin-left: 700px;
+	margin-top: -30px;
+}
+button{
+	
+	color:white;
+	border-color :blue;
+
+}
+.send-button{
+	color :white;
+	margin-left: 250px;
+	background: blue;
+	
+	
+
+}
+.send-button:hover{
+	color:black
+	background-color:yellow;
+	border-color: black;
+}
+form{
+	margin-left: 250px;
+	margin-top: -5em;
+}
+.fg{
+	display:block; 
+
+	line-height: 1.5;
+	font-size: 1.5rem;
+	width: 40%;
+	padding: .375rem,.75rem;
+	transition: width 2s;
+}
+
